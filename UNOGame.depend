@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1724849188 source:/home/adeep/Documents/UNOGame/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"cartes.h"
+	<queue>
+	"PlayersHand.h"
+	<string>
+	<map>
+
+1724849188 source:/home/adeep/Documents/UNOGame/src/cartes.cpp
+	"cartes.h"
+	<queue>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1724846772 /home/adeep/Documents/UNOGame/include/cartes.h
+	<queue>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1724846847 source:/home/adeep/Documents/UNOGame/src/PlayersHand.cpp
+	"PlayersHand.h"
+	"cartes.h"
+	<queue>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1724846847 /home/adeep/Documents/UNOGame/include/PlayersHand.h
+	<queue>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
