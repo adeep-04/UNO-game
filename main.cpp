@@ -7,9 +7,9 @@
 #include <string>
 #include <map>
 
-void Direction_indirect(map<int,PlayersHand> &Players, int P_dirction, int &theRole, Game_Surface &game, int num_players);
 using namespace std;
 
+void Direction_indirect(map<int,PlayersHand> &Players, int P_dirction, int &theRole, Game_Surface &game, int num_players);
 int Check_number_of_players();
 void Create_players(map<int,PlayersHand> &Players, int num_Players);
 void SKiP_card(int &the_role, int Play_direction, int num_Players);
